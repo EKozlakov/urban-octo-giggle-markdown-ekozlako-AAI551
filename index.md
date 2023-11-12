@@ -7,6 +7,11 @@
 
 ###### practice .md made
 
+``` python
+angle = '90'
+angle = format(float(angle),'<.2f')
+```
 *bonk*
+
 ![Image of Boxertocat](https://octodex.github.com/images/boxertocat_octodex.jpg)
 
